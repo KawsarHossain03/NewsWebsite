@@ -1,2 +1,2 @@
 # NewsWebsite
-Online news portal 
+https://kawsar-25.github.io/NewsWebsite/
